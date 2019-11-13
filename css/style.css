@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url('../img/city_img.jpeg');
+    background-size: cover;
+    height: 70vh;
+    color: white;
+}
+span.text-uppercase {
+color:  red;
+}
